@@ -1,0 +1,24 @@
+# azuremaxxing
+> The Field Guide to Getting Maximum Value from Every Azure Dollar.
+
+## Overview
+azuremaxxing is an open field guide and FinOps optimization engine for Microsoft Azure.
+It covers the three levers of Azure optimization:
+1. Rate Optimization (Reservations, Savings Plans, Spot, MACC, Credits)
+2. Usage Optimization (Orphan cleanup, Rightsizing, Auto-shutdown, Storage lifecycle, Observability trimming)
+3. License Optimization (Azure Hybrid Benefit, Dev/Test subscriptions, SQL Edition sizing, ESU via Arc)
+
+## Critical Deadlines
+- February 1, 2027: Reservation exchanges end for savings-plan-covered services.
+- January 12, 2027: Windows Server 2016 reaches end of extended support (ESUs available via Azure Arc).
+- July 12, 2027: SQL Server 2014 ESU period ends.
+- Past: SQL Server 2016 EOS (July 14, 2026), Windows Server 2012/2012 R2 ESU end (October 13, 2026).
+
+## Key Resources
+- Playbooks: /playbooks/startup-30-day-plan, /playbooks/scale-up-90-day-program, /playbooks/enterprise-12-month-program
+- Waste Hunting Resource Graph Queries: /resource-graph-queries
+- Interactive Calculators: /calculators
+- Tips Library: /tips
+- KPI Glossary: /kpis
+- Dashboard Library: /dashboards
+- AI Assistant: /ask (Gemini 3.8 Flash server-side agent)

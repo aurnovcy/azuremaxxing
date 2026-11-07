@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>azuremaxxing – What's New in Azure Cost Management</title>
+  <subtitle>The Field Guide to Getting Maximum Value from Every Azure Dollar</subtitle>
+  <link href="https://azuremaxxing.com/feed.xml" rel="self"/>
+  <link href="https://azuremaxxing.com/"/>
+  <updated>2026-10-31T00:00:00Z</updated>
+  <id>https://azuremaxxing.com/</id>
+  <author>
+    <name>azuremaxxing editorial team</name>
+  </author>
+
+  <entry>
+    <title>VNet Flow Log Filtering GA</title>
+    <link href="https://azuremaxxing.com/whats-new#vnet-flow-log-filtering"/>
+    <id>https://azuremaxxing.com/whats-new#vnet-flow-log-filtering</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <summary>VNet flow log filtering by IP, port, protocol, and direction becomes GA, enabling selective observability and slashing network log ingestion waste.</summary>
+  </entry>
+
+  <entry>
+    <title>Claude Model Usage &amp; Cost Attribution in Microsoft Foundry</title>
+    <link href="https://azuremaxxing.com/whats-new#foundry-claude-cost"/>
+    <id>https://azuremaxxing.com/whats-new#foundry-claude-cost</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <summary>Microsoft Foundry brings Claude model usage into Azure Cost Management with tagging and cost attribution alongside OpenAI models.</summary>
+  </entry>
+
+  <entry>
+    <title>Management-Group-Scoped Savings Plan and Reservation Recommendations</title>
+    <link href="https://azuremaxxing.com/whats-new#mg-scoped-commitments"/>
+    <id>https://azuremaxxing.com/whats-new#mg-scoped-commitments</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <summary>Evaluate commitment opportunities across an entire management group hierarchy in one view rather than subscription by subscription.</summary>
+  </entry>
+
+  <entry>
+    <title>Reservation Exchange Policy Deadline Announced (Feb 1, 2027)</title>
+    <link href="https://azuremaxxing.com/deadlines#reservation-exchange-deadline"/>
+    <id>https://azuremaxxing.com/deadlines#reservation-exchange-deadline</id>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <summary>Microsoft announces reservation exchanges will end for savings-plan-covered services on February 1, 2027.</summary>
+  </entry>
+
+  <entry>
+    <title>Savings Plan for Databases Introduced</title>
+    <link href="https://azuremaxxing.com/whats-new#savings-plan-databases"/>
+    <id>https://azuremaxxing.com/whats-new#savings-plan-databases</id>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary>A spend-based, 1-year commitment floating across Azure SQL Database, SQL Managed Instance, PostgreSQL, MySQL, and Cosmos DB provisioned throughput.</summary>
+  </entry>
+</feed>
